@@ -1,0 +1,9 @@
+Building Abccoin
+
+See doc/readme-qt.rst for instructions on building Abccoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Abccoin.
+
+See doc/build-*.txt for instructions on building abccoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Abccoin.
